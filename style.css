@@ -90,7 +90,7 @@ div.video >iframe{
 }
 footer{
     color: aliceblue;
-    background-color: rgb(23, 31, 0);
+    background-color: rgba(23, 31, 0, 0);
     text-align: center;
     font-family: sans-serif;
     padding: 9px;
